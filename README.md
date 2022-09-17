@@ -6,6 +6,6 @@
 Запуск программы:  
 1. > cd v2_0  
 2. Установить [mmocr]:https://github.com/open-mmlab/mmocr и [paddleocr]:https://github.com/PaddlePaddle/PaddleOCR по официальной инструкции (mmocr устанавливается как то особенно, поэтому pip install -r requirements не канает) 
-Клонировать yolov5 репозиторий в папку [yolov5]:https://github.com/ultralytics/yolov5 (стандартное расположение). Yolov5 репозиторий нужен для локальной загрузки yolo модели без использования интернет соединения  
+Клонировать yolov5 репозиторий в папку [yolov5](https://github.com/ultralytics/yolov5) (стандартное расположение). Yolov5 репозиторий нужен для локальной загрузки yolo модели без использования интернет соединения  
 Скачать модели yolo и mmocr (или обучить самостоятельно) и поместить в соостветсвующие папки вместо файлов model.txt  
 
